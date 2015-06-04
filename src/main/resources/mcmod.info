@@ -1,0 +1,16 @@
+[
+{
+  "modid": "forgemod",
+  "name": "Forge Mod",
+  "description": "Simple Forge Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Vegakuma"],
+  "credits": "Vegakuma for developing this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
